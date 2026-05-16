@@ -5,8 +5,14 @@ from sentence_transformers import SentenceTransformer
 import uuid
 from typing import List, Dict, Any
 
-# Load the model once to avoid reloading it on every request
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+_embedding_model = None
+
+def get_embedding_model():
+    global _embedding_model
+    if _embedding_model is None:
+        from sentence_transformers import SentenceTransformer
+        _embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+    return _embedding_model
 
 # Ephemeral client: Lives in memory and goes away when the server restarts
 chroma_client = chromadb.EphemeralClient()
@@ -42,7 +48,7 @@ def embed_and_store(collection_name: str, text: str) -> None:
     if not chunks:
         return
         
-    embeddings = embedding_model.encode(chunks).tolist()
+    embeddings = get_embedding_model().encode(chunks).tolist()
     ids = [str(uuid.uuid4()) for _ in chunks]
     
     collection.add(
@@ -59,7 +65,7 @@ def query_vector_store(collection_name: str, query: str, n_results: int = 3) -> 
     if collection.count() == 0:
         return []
         
-    query_embedding = embedding_model.encode([query]).tolist()
+    query_embedding = get_embedding_model().encode([query]).tolist()
     
     results = collection.query(
         query_embeddings=query_embedding,
