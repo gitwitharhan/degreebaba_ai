@@ -1,0 +1,317 @@
+{
+  "specialization_schema": {
+    "specialization_name": "text",
+    "specialization_slug": "text",
+    "course_name": "text",
+    "course_slug": "text",
+    "specialization_type": "text",
+    "delivery_mode": "text",
+    "duration": {
+      "duration_value": "number",
+      "duration_unit": "text",
+      "validity_period": "text"
+    },
+    "breadcrumb_section": {
+      "breadcrumbs": {
+        "type": "repeater",
+        "fields": {
+          "label": "text",
+          "url": "url",
+          "is_active": "true_false"
+        }
+      }
+    },
+    "university": {
+      "university_name": "text"
+    },
+    "hero_section": {
+      "specialization_tag": "text",
+      "headline": "text",
+      "highlight_text": "text",
+      "university_name": "text",
+      "hero_description": "wysiwyg",
+      "hero_badges": {
+        "type": "repeater",
+        "fields": {
+          "badge_text": "text",
+          "badge_variant": "text"
+        }
+      },
+      "hero_stats": {
+        "type": "repeater",
+        "fields": {
+          "stat_value": "text",
+          "stat_suffix": "text",
+          "stat_label": "text"
+        }
+      },
+      "primary_cta_text": "text",
+      "secondary_cta_text": "text"
+    },
+    "lead_form_section": {
+      "tag_text": "text",
+      "form_heading": "text",
+      "form_description": "text",
+      "lead_form_fields": {
+        "type": "repeater",
+        "fields": {
+          "field_label": "text",
+          "field_type": "text",
+          "placeholder": "text"
+        }
+      },
+      "submit_button_text": "text",
+      "processing_fee_text": "text",
+      "social_proof_text": "text"
+    },
+    "overview_section": {
+      "heading": "text",
+      "content": "wysiwyg",
+      "overview_stats": {
+        "type": "repeater",
+        "fields": {
+          "stat_value": "text",
+          "stat_label": "text"
+        }
+      },
+      "program_benefits": {
+        "type": "repeater",
+        "fields": {
+          "benefit_title": "text",
+          "benefit_description": "wysiwyg"
+        }
+      }
+    },
+    "program_highlights_section": {
+      "heading": "text",
+      "highlights": {
+        "type": "repeater",
+        "fields": {
+          "title": "text",
+          "description": "wysiwyg"
+        }
+      }
+    },
+    "eligibility_section": {
+      "heading": "text",
+      "eligibility_cards": {
+        "type": "repeater",
+        "fields": {
+          "criteria_title": "text",
+          "criteria_description": "wysiwyg"
+        }
+      },
+      "eligibility_note": "wysiwyg"
+    },
+    "fee_structure_section": {
+      "heading": "text",
+      "fee_plans": {
+        "type": "repeater",
+        "fields": {
+          "plan_name": "text",
+          "amount": "text",
+          "frequency_text": "text",
+          "total_fee": "text",
+          "savings_text": "text",
+          "is_best_value": "true_false"
+        }
+      }
+    },
+    "emi_section": {
+      "feature_tag": "text",
+      "emi_heading": "text",
+      "emi_description": "wysiwyg",
+      "starting_emi": "text",
+      "emi_tenures": {
+        "type": "repeater",
+        "fields": {
+          "months": "text",
+          "is_featured": "true_false"
+        }
+      },
+      "emi_features": {
+        "type": "repeater",
+        "fields": {
+          "feature_text": "text"
+        }
+      }
+    },
+    "partner_banks_section": {
+      "heading": "text",
+      "subheading": "textarea",
+      "partner_banks": {
+        "type": "repeater",
+        "fields": {
+          "bank_name": "text"
+        }
+      }
+    },
+    "scholarship_section": {
+      "scholarship_tag": "text",
+      "scholarship_title": "text",
+      "scholarship_description": "wysiwyg"
+    },
+    "specialization_comparison_section": {
+      "heading": "text",
+      "specializations": {
+        "type": "repeater",
+        "fields": {
+          "specialization_name": "text",
+          "specialization_fee": "text",
+          "is_active_specialization": "true_false"
+        }
+      }
+    },
+    "syllabus_section": {
+      "heading": "text",
+      "description": "text",
+      "years": {
+        "type": "repeater",
+        "fields": {
+          "year_name": "text",
+          "semesters": {
+            "type": "repeater",
+            "fields": {
+              "semester_name": "text",
+              "subjects": {
+                "type": "repeater",
+                "fields": {
+                  "subject_name": "text"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "exam_section": {
+      "heading": "text",
+      "description": "wysiwyg",
+      "exam_cards": {
+        "type": "repeater",
+        "fields": {
+          "card_title": "text",
+          "card_description": "wysiwyg"
+        }
+      }
+    },
+    "admission_section": {
+      "heading": "text",
+      "steps": {
+        "type": "repeater",
+        "fields": {
+          "step_number": "number",
+          "step_description": "wysiwyg"
+        }
+      },
+      "admission_note": "wysiwyg"
+    },
+    "placement_section": {
+      "heading": "text",
+      "placement_stats": {
+        "type": "repeater",
+        "fields": {
+          "stat_value": "text",
+          "stat_label": "text"
+        }
+      },
+      "placement_services": {
+        "type": "repeater",
+        "fields": {
+          "service_text": "text"
+        }
+      },
+      "recruiters_heading": "text",
+      "recruiters": {
+        "type": "repeater",
+        "fields": {
+          "company_name": "text"
+        }
+      }
+    },
+    "job_roles_section": {
+      "heading": "text",
+      "description": "text",
+      "job_roles": {
+        "type": "repeater",
+        "fields": {
+          "job_title": "text",
+          "salary_range": "text"
+        }
+      }
+    },
+    "certificate_section": {
+      "heading": "text",
+      "certificate_title": "text",
+      "certificate_description": "wysiwyg"
+    },
+    "reviews_section": {
+      "heading": "text",
+      "reviews": {
+        "type": "repeater",
+        "fields": {
+          "review_text": "wysiwyg",
+          "review_author": "text"
+        }
+      }
+    },
+    "faq_section": {
+      "heading": "text",
+      "faq_items": {
+        "type": "repeater",
+        "fields": {
+          "question": "text",
+          "answer": "wysiwyg"
+        }
+      }
+    },
+    "sidebar_section": {
+      "quick_navigation_heading": "text",
+      "quick_links": {
+        "type": "repeater",
+        "fields": {
+          "label": "text"
+        }
+      },
+      "at_a_glance_heading": "text",
+      "at_a_glance": {
+        "type": "repeater",
+        "fields": {
+          "label": "text",
+          "value": "text"
+        }
+      },
+      "compare_cta": {
+        "heading": "text",
+        "description": "textarea",
+        "button_text": "text"
+      }
+    },
+    "cta_section": {
+      "heading": "text",
+      "highlight_text": "text",
+      "primary_button_text": "text",
+      "secondary_button_text": "text"
+    },
+    "footer_section": {
+      "footer_description": "textarea",
+      "footer_columns": {
+        "type": "repeater",
+        "fields": {
+          "column_title": "text",
+          "links": {
+            "type": "repeater",
+            "fields": {
+              "link_text": "text",
+              "link_url": "url"
+            }
+          }
+        }
+      },
+      "copyright_text": "text"
+    },
+    "seo_section": {
+      "meta_title": "text"
+    }
+  }
+}

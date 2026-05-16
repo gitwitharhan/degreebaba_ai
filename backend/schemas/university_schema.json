@@ -1,0 +1,257 @@
+{
+  "university_schema": {
+    "page_type": "university",
+    "breadcrumb_section": {
+      "breadcrumbs": {
+        "type": "repeater",
+        "fields": {
+          "label": "text",
+          "url": "url",
+          "is_active": "true_false"
+        }
+      }
+    },
+    "hero_section": {
+      "university_type": "text",
+      "university_name": "text",
+      "university_full_name": "text",
+      "hero_description": "wysiwyg",
+      "hero_badges": {
+        "type": "repeater",
+        "fields": {
+          "badge_label": "text",
+          "badge_type": "text"
+        }
+      },
+      "hero_stats": {
+        "type": "repeater",
+        "fields": {
+          "stat_number": "text",
+          "stat_label": "text"
+        }
+      },
+      "primary_cta_text": "text",
+      "secondary_cta_text": "text"
+    },
+    "lead_form_section": {
+      "tag_text": "text",
+      "form_heading": "text",
+      "form_description": "text",
+      "program_options": {
+        "type": "repeater",
+        "fields": {
+          "program_name": "text"
+        }
+      },
+      "submit_button_text": "text",
+      "proof_text": "text"
+    },
+    "about_section": {
+      "about_heading": "text",
+      "about_content": "wysiwyg",
+      "quick_facts": {
+        "type": "repeater",
+        "fields": {
+          "fact_label": "text",
+          "fact_value": "text"
+        }
+      }
+    },
+    "why_choose_section": {
+      "why_choose_heading": "text",
+      "why_choose_content": "wysiwyg",
+      "why_choose_points": {
+        "type": "repeater",
+        "fields": {
+          "point_title": "text",
+          "point_description": "wysiwyg"
+        }
+      }
+    },
+    "university_facts_section": {
+      "facts_heading": "text",
+      "facts_points": {
+        "type": "repeater",
+        "fields": {
+          "fact_title": "text",
+          "fact_description": "wysiwyg"
+        }
+      }
+    },
+    "accreditation_section": {
+      "accreditation_heading": "text",
+      "accreditations": {
+        "type": "repeater",
+        "fields": {
+          "accreditation_name": "text",
+          "accreditation_subtitle": "text"
+        }
+      }
+    },
+    "programs_section": {
+      "programs_heading": "text",
+      "programs": {
+        "type": "repeater",
+        "fields": {
+          "program_name": "text",
+          "program_subtitle": "text",
+          "program_fee": "text",
+          "program_eligibility": "wysiwyg"
+        }
+      }
+    },
+    "admission_section": {
+      "admission_heading": "text",
+      "admission_steps": {
+        "type": "repeater",
+        "fields": {
+          "step_number": "number",
+          "step_title": "text",
+          "step_description": "wysiwyg"
+        }
+      }
+    },
+    "emi_section": {
+      "emi_heading": "text",
+      "emi_description": "wysiwyg",
+      "emi_feature_card": {
+        "feature_tag": "text",
+        "feature_title": "text",
+        "feature_description": "wysiwyg",
+        "interest_rate": "text",
+        "emi_tenures": {
+          "type": "repeater",
+          "fields": {
+            "months": "text",
+            "is_featured": "true_false"
+          }
+        },
+        "emi_features": {
+          "type": "repeater",
+          "fields": {
+            "feature_text": "text"
+          }
+        }
+      },
+      "partner_banks": {
+        "type": "repeater",
+        "fields": {
+          "bank_name": "text"
+        }
+      },
+      "scholarship_card": {
+        "scholarship_tag": "text",
+        "scholarship_title": "text",
+        "scholarship_discount": "text",
+        "scholarship_description": "wysiwyg"
+      }
+    },
+    "exam_section": {
+      "exam_heading": "text",
+      "exam_description": "wysiwyg",
+      "exam_cards": {
+        "type": "repeater",
+        "fields": {
+          "card_title": "text",
+          "card_description": "wysiwyg"
+        }
+      }
+    },
+    "faculty_section": {
+      "faculty_heading": "text",
+      "faculty_description": "wysiwyg",
+      "faculty_members": {
+        "type": "repeater",
+        "fields": {
+          "faculty_name": "text",
+          "faculty_program": "text",
+          "faculty_designation": "wysiwyg"
+        }
+      }
+    },
+    "placement_section": {
+      "placement_heading": "text",
+      "placement_services": {
+        "type": "repeater",
+        "fields": {
+          "service_title": "text",
+          "service_description": "wysiwyg"
+        }
+      },
+      "recruiters": {
+        "type": "repeater",
+        "fields": {
+          "recruiter_name": "text"
+        }
+      }
+    },
+    "reviews_section": {
+      "reviews_heading": "text",
+      "reviews": {
+        "type": "repeater",
+        "fields": {
+          "review_text": "wysiwyg",
+          "review_author": "text"
+        }
+      }
+    },
+    "faq_section": {
+      "faq_heading": "text",
+      "faqs": {
+        "type": "repeater",
+        "fields": {
+          "question": "text",
+          "answer": "wysiwyg"
+        }
+      }
+    },
+    "sidebar_section": {
+      "quick_navigation_heading": "text",
+      "quick_links": {
+        "type": "repeater",
+        "fields": {
+          "label": "text"
+        }
+      },
+      "compare_cta": {
+        "heading": "text",
+        "description": "textarea",
+        "button_text": "text"
+      },
+      "at_a_glance_heading": "text",
+      "at_a_glance": {
+        "type": "repeater",
+        "fields": {
+          "label": "text",
+          "value": "text"
+        }
+      }
+    },
+    "cta_section": {
+      "cta_heading": "text",
+      "cta_highlight_text": "text",
+      "primary_cta_text": "text",
+      "secondary_cta_text": "text"
+    },
+    "footer_section": {
+      "footer_description": "textarea",
+      "footer_columns": {
+        "type": "repeater",
+        "fields": {
+          "column_title": "text",
+          "links": {
+            "type": "repeater",
+            "fields": {
+              "link_text": "text",
+              "link_url": "url"
+            }
+          }
+        }
+      },
+      "copyright_text": "text"
+    },
+    "seo_section": {
+      "meta_title": "text"
+    }
+  }
+}

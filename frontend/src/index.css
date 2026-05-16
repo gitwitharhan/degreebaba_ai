@@ -1,0 +1,199 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #f8fafc;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+.panel {
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  padding: 20px;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+}
+
+.panel-title {
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #475569;
+}
+
+.page-heading {
+  font-size: clamp(24px, 3vw, 30px);
+  line-height: 1.15;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  color: #020617;
+}
+
+.eyebrow {
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #ea580c;
+}
+
+.nav-pill {
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  padding: 8px 12px;
+  color: #475569;
+  font-size: 14px;
+  font-weight: 800;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+
+.nav-pill:hover {
+  border-color: #fdba74;
+  color: #c2410c;
+}
+
+.nav-pill-on,
+.nav-pill-on:hover {
+  border-color: #020617;
+  background: #020617;
+  color: #ffffff;
+}
+
+.primary-btn,
+.secondary-btn {
+  border-radius: 8px;
+  padding: 12px 20px;
+  font-size: 14px;
+  font-weight: 900;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+
+.primary-btn {
+  border: 1px solid #ea580c;
+  background: #ea580c;
+  color: #ffffff;
+}
+
+.primary-btn:hover {
+  background: #c2410c;
+}
+
+.primary-btn:disabled {
+  cursor: not-allowed;
+  border-color: #cbd5e1;
+  background: #cbd5e1;
+}
+
+.secondary-btn {
+  border: 1px solid #cbd5e1;
+  background: #ffffff;
+  color: #1e293b;
+}
+
+.secondary-btn:hover {
+  border-color: #64748b;
+  background: #f8fafc;
+}
+
+.status {
+  border-radius: 999px;
+  background: #f1f5f9;
+  padding: 4px 10px;
+  color: #334155;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: capitalize;
+  white-space: nowrap;
+}
+
+.status.good {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.status.warn {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.status.bad {
+  background: #fee2e2;
+  color: #991b1b;
+}
+
+.field-type {
+  border-radius: 999px;
+  background: #ffedd5;
+  padding: 4px 8px;
+  color: #c2410c;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.validation-stat {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: #f8fafc;
+  padding: 12px 14px;
+}
+
+.validation-stat-label {
+  font-size: 12px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.validation-item {
+  border-radius: 8px;
+  padding: 10px 12px;
+  border: 1px solid transparent;
+}
+
+.validation-item-bad {
+  background: #fef2f2;
+  border-color: #fecaca;
+  color: #991b1b;
+}
+
+.validation-item-warn {
+  background: #fffbeb;
+  border-color: #fde68a;
+  color: #92400e;
+}
+
+.validation-item-neutral {
+  background: #f1f5f9;
+  border-color: #e2e8f0;
+  color: #334155;
+}
+
+.validation-code {
+  display: block;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-size: 12px;
+  line-height: 1.6;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
