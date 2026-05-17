@@ -1,0 +1,122 @@
+{
+  "summary": "Consolidated batch test execution report for DegreeBaba AI Parsing Pipeline.",
+  "total_files_processed": 6,
+  "results": {
+    "university_1": {
+      "file_name": "university_1.docx",
+      "page_type": "university",
+      "confidence": 0.98,
+      "missing_fields_count": 0,
+      "thin_content_count": 0,
+      "warnings_count": 4,
+      "missing_fields_list": [],
+      "warnings_list": [
+        "Incomplete repeater 'accreditation_section.accreditations': Missing attributes ['accreditation_subtitle']",
+        "Incomplete repeater 'programs_section.programs': Missing attributes ['program_subtitle']",
+        "Incomplete repeater 'placement_section.placement_services': Missing attributes ['service_description']",
+        "Incomplete repeater 'reviews_section.reviews': Missing attributes ['review_rating', 'review_author']"
+      ]
+    },
+    "university_2": {
+      "file_name": "university_2.docx",
+      "page_type": "university",
+      "confidence": 0.98,
+      "missing_fields_count": 0,
+      "thin_content_count": 0,
+      "warnings_count": 5,
+      "missing_fields_list": [],
+      "warnings_list": [
+        "Incomplete repeater 'accreditation_section.accreditations': Missing attributes ['accreditation_subtitle']",
+        "Incomplete repeater 'programs_section.programs': Missing attributes ['program_subtitle']",
+        "Incomplete repeater 'placement_section.placement_services': Missing attributes ['service_description']",
+        "Incomplete repeater 'reviews_section.reviews': Missing attributes ['review_rating', 'review_author']",
+        "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5212, Requested 2517. Please try again in 17.29s. Need more tokens? Upgrade to Dev Tier today at https://console.g"
+      ]
+    },
+    "course_1": {
+      "file_name": "course_1.docx",
+      "page_type": "course",
+      "confidence": 0.98,
+      "missing_fields_count": 0,
+      "thin_content_count": 0,
+      "warnings_count": 12,
+      "missing_fields_list": [],
+      "warnings_list": [
+        "breadcrumb_section.breadcrumbs must be an array",
+        "Incomplete repeater 'hero_section.hero_badges': Missing attributes ['badge_variant', 'badge_icon']",
+        "Incomplete repeater 'hero_section.hero_stats': Missing attributes ['stat_suffix']",
+        "Incomplete repeater 'overview_section.overview_cards': Missing attributes ['color_variant']",
+        "Incomplete repeater 'highlights_section.highlights': Missing attributes ['icon']",
+        "Incomplete repeater 'accreditation_section.accreditations': Missing attributes ['description', 'color_variant']",
+        "Incomplete repeater 'specialization_section.specializations': Missing attributes ['icon_bg_variant', 'icon']",
+        "Incomplete repeater 'fee_structure_section.fee_plans': Missing attributes ['billing_frequency', 'total_fee', 'savings_text']",
+        "Incomplete repeater 'placement_section.recruiters': Missing attributes ['company_logo']",
+        "Incomplete repeater 'job_roles_section.job_roles': Missing attributes ['salary_growth_percentage']",
+        "Incomplete repeater 'reviews_section.reviews': Missing attributes ['rating', 'designation', 'student_name']",
+        "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5270, Requested 2807. Please try again in 20.77s. Need more tokens? Upgrade to Dev Tier today at https://console.g"
+      ]
+    },
+    "course_2": {
+      "file_name": "course_2.docx",
+      "page_type": "course",
+      "confidence": 0.98,
+      "missing_fields_count": 0,
+      "thin_content_count": 0,
+      "warnings_count": 11,
+      "missing_fields_list": [],
+      "warnings_list": [
+        "Incomplete repeater 'hero_section.hero_badges': Missing attributes ['badge_variant', 'badge_icon']",
+        "Incomplete repeater 'hero_section.hero_stats': Missing attributes ['stat_suffix']",
+        "Incomplete repeater 'overview_section.overview_cards': Missing attributes ['color_variant']",
+        "Incomplete repeater 'highlights_section.highlights': Missing attributes ['icon']",
+        "Incomplete repeater 'accreditation_section.accreditations': Missing attributes ['description', 'color_variant']",
+        "Incomplete repeater 'specialization_section.specializations': Missing attributes ['icon_bg_variant', 'icon']",
+        "Incomplete repeater 'fee_structure_section.fee_plans': Missing attributes ['billing_frequency', 'total_fee', 'savings_text']",
+        "Incomplete repeater 'placement_section.recruiters': Missing attributes ['company_logo']",
+        "Incomplete repeater 'job_roles_section.job_roles': Missing attributes ['salary_growth_percentage']",
+        "Incomplete repeater 'reviews_section.reviews': Missing attributes ['rating', 'designation', 'student_name']",
+        "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5157, Requested 2653. Please try again in 18.1s. Need more tokens? Upgrade to Dev Tier today at https://console.gr"
+      ]
+    },
+    "specialization_1": {
+      "file_name": "specialization_1.docx",
+      "page_type": "specialization",
+      "confidence": 0.98,
+      "missing_fields_count": 0,
+      "thin_content_count": 0,
+      "warnings_count": 9,
+      "missing_fields_list": [],
+      "warnings_list": [
+        "Incomplete repeater 'hero_section.hero_badges': Missing attributes ['badge_variant']",
+        "Incomplete repeater 'hero_section.hero_stats': Missing attributes ['stat_suffix']",
+        "Incomplete repeater 'fee_structure_section.fee_plans': Missing attributes ['amount', 'savings_text']",
+        "Incomplete repeater 'syllabus_section.years': Missing attributes ['semesters']",
+        "Incomplete repeater 'placement_section.placement_services': Missing attributes ['service_description']",
+        "Incomplete repeater 'reviews_section.reviews': Missing attributes ['rating', 'review_author']",
+        "Incomplete repeater 'sidebar_section.at_a_glance': Missing attributes ['value_variant']",
+        "Duplicate stat values detected: 100%, 21, 24, 46%",
+        "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5447, Requested 2960. Please try again in 24.07s. Need more tokens? Upgrade to Dev Tier today at https://console.g"
+      ]
+    },
+    "specialization_2": {
+      "file_name": "specialization_2.docx",
+      "page_type": "specialization",
+      "confidence": 0.98,
+      "missing_fields_count": 0,
+      "thin_content_count": 0,
+      "warnings_count": 9,
+      "missing_fields_list": [],
+      "warnings_list": [
+        "Incomplete repeater 'hero_section.hero_badges': Missing attributes ['badge_variant']",
+        "Incomplete repeater 'hero_section.hero_stats': Missing attributes ['stat_suffix']",
+        "Incomplete repeater 'fee_structure_section.fee_plans': Missing attributes ['amount', 'savings_text']",
+        "Incomplete repeater 'syllabus_section.years': Missing attributes ['semesters']",
+        "Incomplete repeater 'placement_section.placement_services': Missing attributes ['service_description']",
+        "Incomplete repeater 'reviews_section.reviews': Missing attributes ['rating', 'review_author']",
+        "Incomplete repeater 'sidebar_section.at_a_glance': Missing attributes ['value_variant']",
+        "Duplicate stat values detected: 100%, 21, 24, 46%",
+        "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5493, Requested 2960. Please try again in 24.53s. Need more tokens? Upgrade to Dev Tier today at https://console.g"
+      ]
+    }
+  }
+}

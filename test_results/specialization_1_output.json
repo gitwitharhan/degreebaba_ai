@@ -1,0 +1,629 @@
+{
+  "file_name": "specialization_1.docx",
+  "page_type": "specialization",
+  "classification_confidence": 0.98,
+  "mapped_payload": {
+    "specialization_name": "Data Science",
+    "specialization_slug": "data-science",
+    "course_name": "MBA",
+    "course_slug": "mba",
+    "specialization_type": "MBA Specialization",
+    "delivery_mode": "Online",
+    "duration": {
+      "duration_value": "12",
+      "duration_unit": "Years",
+      "validity_period": null
+    },
+    "breadcrumb_section": {
+      "breadcrumbs": null
+    },
+    "university": {
+      "university_name": "Amity University Online"
+    },
+    "hero_section": {
+      "specialization_tag": "Amity Online MBA in Data Science",
+      "headline": "Amity Online MBA in Data Science",
+      "highlight_text": "Data Science",
+      "university_name": "Amity University Online",
+      "hero_description": "<p>MBA in Data Science by Amity Online is a full-fledged online learning program delivered through a 100% online learning platform. The main objective of the MBA in data science at Amity University Online is to assist students in developing their skills to transform data into business insights. Amity University Online offers various tools along with the course to guide students in becoming professionals in the data science industry.</p><p>The MBA in Data Science by Amity Online is ranked by QS in India with expertise in the development of leadership skills essential for the 21st century. The program is ideal for students and working professionals with its remote/virtual learning facility. As per the latest reports, the data science industry has increased by 46% in employability, making an online MBA in data science at Amity University Online a perfect postgraduation degree for every student willing to acquire an MBA qualification.</p>",
+      "hero_badges": [
+        {
+          "badge_text": "Online",
+          "badge_variant": null
+        },
+        {
+          "badge_text": "MBA",
+          "badge_variant": null
+        },
+        {
+          "badge_text": "Data Science",
+          "badge_variant": null
+        }
+      ],
+      "hero_stats": [
+        {
+          "stat_value": "100",
+          "stat_label": "Programs",
+          "stat_suffix": "%"
+        },
+        {
+          "stat_value": "21",
+          "stat_label": "Students",
+          "stat_suffix": ""
+        },
+        {
+          "stat_value": "46",
+          "stat_label": "Stat",
+          "stat_suffix": "%"
+        },
+        {
+          "stat_value": "24",
+          "stat_label": "Stat",
+          "stat_suffix": ""
+        },
+        {
+          "stat_value": "10",
+          "stat_label": "Stat",
+          "stat_suffix": "+"
+        },
+        {
+          "stat_value": "2",
+          "stat_label": "Stat",
+          "stat_suffix": ""
+        }
+      ],
+      "primary_cta_text": null,
+      "secondary_cta_text": null
+    },
+    "lead_form_section": {
+      "tag_text": null,
+      "form_heading": null,
+      "form_description": null,
+      "lead_form_fields": null,
+      "submit_button_text": null,
+      "processing_fee_text": null,
+      "social_proof_text": null
+    },
+    "overview_section": {
+      "heading": "Course details",
+      "content": "<p>MBA in Data Science by Amity Online is a full-fledged online learning program delivered through a 100% online learning platform. The main objective of the MBA in data science at Amity University Online is to assist students in developing their skills to transform data into business insights. Amity University Online offers various tools along with the course to guide students in becoming professionals in the data science industry.</p><p>The MBA in Data Science by Amity Online is ranked by QS in India with expertise in the development of leadership skills essential for the 21st century. The program is ideal for students and working professionals with its remote/virtual learning facility. As per the latest reports, the data science industry has increased by 46% in employability, making an online MBA in data science at Amity University Online a perfect postgraduation degree for every student willing to acquire an MBA qualification.</p>",
+      "overview_stats": [
+        {
+          "stat_value": "100%",
+          "stat_label": "Programs"
+        },
+        {
+          "stat_value": "21",
+          "stat_label": "Students"
+        },
+        {
+          "stat_value": "46%",
+          "stat_label": "Stat"
+        },
+        {
+          "stat_value": "24",
+          "stat_label": "Stat"
+        }
+      ],
+      "program_benefits": [
+        {
+          "benefit_title": "A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.",
+          "benefit_description": "<p>A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.</p>"
+        },
+        {
+          "benefit_title": "Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.",
+          "benefit_description": "<p>Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.</p>"
+        },
+        {
+          "benefit_title": "Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.",
+          "benefit_description": "<p>Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.</p>"
+        },
+        {
+          "benefit_title": "The Amity University online MBA placement assistance conducts online placement drives every fortnight.",
+          "benefit_description": "<p>The Amity University online MBA placement assistance conducts online placement drives every fortnight.</p>"
+        },
+        {
+          "benefit_title": "Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.",
+          "benefit_description": "<p>Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.</p>"
+        }
+      ]
+    },
+    "program_highlights_section": {
+      "heading": "Course Facts",
+      "highlights": [
+        {
+          "title": "A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.",
+          "description": "<p>A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.</p>"
+        },
+        {
+          "title": "Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.",
+          "description": "<p>Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.</p>"
+        },
+        {
+          "title": "Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.",
+          "description": "<p>Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.</p>"
+        },
+        {
+          "title": "The Amity University online MBA placement assistance conducts online placement drives every fortnight.",
+          "description": "<p>The Amity University online MBA placement assistance conducts online placement drives every fortnight.</p>"
+        },
+        {
+          "title": "Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.",
+          "description": "<p>Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.</p>"
+        }
+      ]
+    },
+    "eligibility_section": {
+      "heading": "Eligibility Criteria",
+      "eligibility_cards": [
+        {
+          "criteria_title": "Students willing to enroll in the Amity Online MBA are required to fulfill the eligibility criteria of the program along with the admission requirements mentioned below:",
+          "criteria_description": "<p>Students willing to enroll in the Amity Online MBA are required to fulfill the eligibility criteria of the program along with the admission requirements mentioned below:</p>"
+        },
+        {
+          "criteria_title": "The applicant must have completed a 10+2 formal educational qualification from a recognized board of education.",
+          "criteria_description": "<p>The applicant must have completed a 10+2 formal educational qualification from a recognized board of education.</p>"
+        },
+        {
+          "criteria_title": "Along with the 12  years of formal education, a bachelor’s degree in any domain is required from a valid and recognized university.",
+          "criteria_description": "<p>Along with the 12  years of formal education, a bachelor’s degree in any domain is required from a valid and recognized university.</p>"
+        },
+        {
+          "criteria_title": "The applicant must be familiar with and have an intermediate understanding of the English language.",
+          "criteria_description": "<p>The applicant must be familiar with and have an intermediate understanding of the English language.</p>"
+        }
+      ],
+      "eligibility_note": "<p>Students with a minimum of 40% aggregate marks in their graduation are offered direct admission whereas, students with below 40% score are required to qualify for a test conducted by the university to become eligible for the Amity University Online MBA.</p>"
+    },
+    "fee_structure_section": {
+      "heading": "Specialization fee",
+      "fee_plans": [
+        {
+          "plan_name": "Dual Specialization",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 2,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        },
+        {
+          "plan_name": "International Finance",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 2,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        },
+        {
+          "plan_name": "Digital Marketing Management",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 1,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        },
+        {
+          "plan_name": "HR Analytics",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 1,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        },
+        {
+          "plan_name": "Data Science",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 1,99,000 /-",
+          "savings_text": null,
+          "is_best_value": true
+        },
+        {
+          "plan_name": "Business Analytics",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 1,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        },
+        {
+          "plan_name": "Digital Entrepreneurship",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 1,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        },
+        {
+          "plan_name": "General Management",
+          "amount": null,
+          "frequency_text": "Entire Course Fee",
+          "total_fee": "INR 1,99,000 /-",
+          "savings_text": null,
+          "is_best_value": false
+        }
+      ]
+    },
+    "emi_section": {
+      "feature_tag": "EMI",
+      "emi_heading": "EMI details",
+      "emi_description": "<p>The Amity Online MBA in Data Science course fee is INR 1,99,000 /-, which makes it per semester fee INR 49,750. The fee structure is quite affordable, but for candidates facing financial difficulties, the Amity Online MBA in Data Science has an EMI facility as well.</p><p>The MBA in Data Science by Amity Online 24-month zero-cost EMI is INR 8,292 /-; meanwhile, its terms and conditions may vary.</p>",
+      "starting_emi": "INR 1,99,000 /-",
+      "emi_tenures": [
+        {
+          "months": "24 months",
+          "is_featured": true
+        }
+      ],
+      "emi_features": [
+        {
+          "feature_text": "Zero-cost EMI"
+        },
+        {
+          "feature_text": "Financial support for eligible students"
+        }
+      ]
+    },
+    "partner_banks_section": {
+      "heading": null,
+      "subheading": null,
+      "partner_banks": null
+    },
+    "scholarship_section": {
+      "scholarship_tag": null,
+      "scholarship_title": null,
+      "scholarship_description": null
+    },
+    "specialization_comparison_section": {
+      "heading": "Specialization fee",
+      "specializations": [
+        {
+          "specialization_name": "Dual Specialization",
+          "specialization_fee": "INR 2,99,000 /-",
+          "is_active_specialization": false
+        },
+        {
+          "specialization_name": "International Finance",
+          "specialization_fee": "INR 2,99,000 /-",
+          "is_active_specialization": false
+        },
+        {
+          "specialization_name": "Digital Marketing Management",
+          "specialization_fee": "INR 1,99,000 /-",
+          "is_active_specialization": false
+        },
+        {
+          "specialization_name": "HR Analytics",
+          "specialization_fee": "INR 1,99,000 /-",
+          "is_active_specialization": false
+        },
+        {
+          "specialization_name": "Data Science",
+          "specialization_fee": "INR 1,99,000 /-",
+          "is_active_specialization": true
+        },
+        {
+          "specialization_name": "Business Analytics",
+          "specialization_fee": "INR 1,99,000 /-",
+          "is_active_specialization": false
+        },
+        {
+          "specialization_name": "Digital Entrepreneurship",
+          "specialization_fee": "INR 1,99,000 /-",
+          "is_active_specialization": false
+        },
+        {
+          "specialization_name": "General Management",
+          "specialization_fee": "INR 1,99,000 /-",
+          "is_active_specialization": false
+        }
+      ]
+    },
+    "syllabus_section": {
+      "heading": "Syllabus",
+      "description": null,
+      "years": [
+        {
+          "year_name": "Dual Specialization",
+          "semesters": []
+        }
+      ]
+    },
+    "exam_section": {
+      "heading": "Examination pattern",
+      "description": "<p>The Amity Online MBA in Data Science follows the exact similar examination pattern to other specializations offered under an online MBA. The examination pattern includes internal assessments that carry 30% weightage of the total marks, whereas the term-end examinations carry 70% of the overall marks.</p><p>Both components are designed to evaluate the overall theoretical knowledge and practical experience acquired by students during their academic journey at Amity University Online.</p>",
+      "exam_cards": [
+        {
+          "card_title": "The Amity Online MBA in Data Science follows the exact similar examination patte",
+          "card_description": "<p>The Amity Online MBA in Data Science follows the exact similar examination pattern to other specializations offered under an online MBA.</p>"
+        },
+        {
+          "card_title": "The examination pattern includes internal assessments that carry 30% weightage o",
+          "card_description": "<p>The examination pattern includes internal assessments that carry 30% weightage of the total marks, whereas the term-end examinations carry 70% of the overall marks.</p>"
+        },
+        {
+          "card_title": "Both components are designed to evaluate the overall theoretical knowledge and p",
+          "card_description": "<p>Both components are designed to evaluate the overall theoretical knowledge and practical experience acquired by students during their academic journey at Amity University Online.</p>"
+        }
+      ]
+    },
+    "admission_section": {
+      "heading": "Amity Online MBA Admission Process",
+      "steps": [
+        {
+          "step_number": "1",
+          "step_title": "Select the online MBA program along with the best",
+          "step_description": "<p>suited specialization as per your career goals.</p>"
+        },
+        {
+          "step_number": "2",
+          "step_title": "Complete the application form on Amity University Online's official website by providing personal information.",
+          "step_description": "<p>Complete the application form on Amity University Online&#039;s official website by providing personal information.</p>"
+        },
+        {
+          "step_number": "3",
+          "step_title": "Pay the program fee using your chosen payment mode and fee plan.",
+          "step_description": "<p>Pay the program fee using your chosen payment mode and fee plan.</p>"
+        },
+        {
+          "step_number": "4",
+          "step_title": "Once the application form is completely filled, submit it and complete the registration process.",
+          "step_description": "<p>Once the application form is completely filled, submit it and complete the registration process.</p>"
+        },
+        {
+          "step_number": "5",
+          "step_title": "Once the admission is confirmed, Amity Online will share the enrollment details.",
+          "step_description": "<p>Once the admission is confirmed, Amity Online will share the enrollment details.</p>"
+        }
+      ],
+      "admission_note": null
+    },
+    "placement_section": {
+      "heading": "Placement",
+      "placement_stats": [
+        {
+          "stat_value": "100%",
+          "stat_label": "Programs"
+        },
+        {
+          "stat_value": "21",
+          "stat_label": "Students"
+        },
+        {
+          "stat_value": "46%",
+          "stat_label": "Stat"
+        }
+      ],
+      "placement_services": [
+        {
+          "service_title": "Resume-Building",
+          "service_description": null
+        },
+        {
+          "service_title": "Interview Preparation",
+          "service_description": null
+        },
+        {
+          "service_title": "Profile-Building",
+          "service_description": null
+        },
+        {
+          "service_title": "Career Coach",
+          "service_description": null
+        },
+        {
+          "service_title": "Virtual Job Fairs",
+          "service_description": null
+        }
+      ],
+      "recruiters_heading": null,
+      "recruiters": [
+        {
+          "company_name": "Zomato"
+        },
+        {
+          "company_name": "Bewakoof"
+        },
+        {
+          "company_name": "OpexAI"
+        },
+        {
+          "company_name": "Factspan"
+        },
+        {
+          "company_name": "Happay"
+        },
+        {
+          "company_name": "Sears Holdings"
+        }
+      ]
+    },
+    "job_roles_section": {
+      "heading": null,
+      "description": null,
+      "job_roles": null
+    },
+    "certificate_section": {
+      "heading": null,
+      "certificate_title": "Sample certificate photo",
+      "certificate_description": "<p>Online MBA (Master of Business Administration) at Amity University Online is immensely reputed and guarantees a successful career in the international market. The degree offered to an individual after successfully completing the program will appear as this sample certification:</p>"
+    },
+    "reviews_section": {
+      "heading": "Amity University Online reviews",
+      "reviews": [
+        {
+          "review_text": "<p>My experience with amity online MBA was nothing less than a roller coaster ride for me as I was among the covid batch but the univeristy was very supportive and I enjoyed it.</p>",
+          "review_author": null,
+          "rating": null
+        },
+        {
+          "review_text": "<p>Being a working professional enrolling in an online MBA is a challenge but amity online assisted me at every stage of my academic journey. Kudos to them.</p>",
+          "review_author": null,
+          "rating": null
+        },
+        {
+          "review_text": "<p>The amity online mba faculty members are very friendly and helped in scoring good marks in a short span of time.</p>",
+          "review_author": null,
+          "rating": null
+        },
+        {
+          "review_text": "<p>Everything is okay about amity university online but there are a few areas of improvement but everything seems nice to me. I recommend it to others too.</p>",
+          "review_author": null,
+          "rating": null
+        }
+      ]
+    },
+    "faq_section": {
+      "heading": "FAQs",
+      "faq_items": [
+        {
+          "question": "How is the learning experience in the Amity Online MBA in Data Science?",
+          "answer": "<p>As per the student&#039;s reviews, the Amity Online MBA in Data Science is up to the mark with the data visualization, strategic planning, regression modelling, and other learning outcomes of the program.</p>"
+        },
+        {
+          "question": "What kind of technical skills will I gain in the Amity Online MBA in Data Science?",
+          "answer": "<p>Statistical testing, diverse statistical tool proficiency, and other technical skills, along with expertise in MySQL, Hadoop, R, Python, and other tools, are included in the technical skills gained by a student enrolled in the Amity Online MBA in Data Science.</p>"
+        },
+        {
+          "question": "Can I work while pursuing the Amity Online MBA in Data Science?",
+          "answer": "<p>Yes, the Amity Online MBA in Data Science is specially designed to perfectly fit the busy schedule of working professionals and allow them to acquire a postgraduate degree without quitting their jobs.</p>"
+        },
+        {
+          "question": "Are there live sessions or interactions with faculty in the Amity Online MBA in Data Science?",
+          "answer": "<p>Yes, the Amity Online MBA in Data Science offers live classes with faculty interaction, allowing students to maintain a strong academic record.</p>"
+        }
+      ]
+    },
+    "sidebar_section": {
+      "quick_navigation_heading": null,
+      "quick_links": [
+        {
+          "label": "Course details",
+          "anchor_id": "course-details"
+        },
+        {
+          "label": "Course Facts",
+          "anchor_id": "course-facts"
+        },
+        {
+          "label": "Eligibility Criteria",
+          "anchor_id": "eligibility-criteria"
+        },
+        {
+          "label": "Additional information:",
+          "anchor_id": "additional-information"
+        },
+        {
+          "label": "Specialization fee",
+          "anchor_id": "specialization-fee"
+        },
+        {
+          "label": "Amity Online MBA Admission Process",
+          "anchor_id": "amity-online-mba-admission-process"
+        },
+        {
+          "label": "Sample certificate photo",
+          "anchor_id": "sample-certificate-photo"
+        },
+        {
+          "label": "EMI details",
+          "anchor_id": "emi-details"
+        },
+        {
+          "label": "Syllabus",
+          "anchor_id": "syllabus"
+        }
+      ],
+      "at_a_glance_heading": null,
+      "at_a_glance": [
+        {
+          "label": "Specialization",
+          "value": "Data Science",
+          "value_variant": null
+        },
+        {
+          "label": "Mode",
+          "value": "Online",
+          "value_variant": null
+        },
+        {
+          "label": "Duration",
+          "value": "12 Years",
+          "value_variant": null
+        }
+      ],
+      "compare_cta": {
+        "heading": null,
+        "description": null,
+        "button_text": null
+      }
+    },
+    "cta_section": {
+      "heading": null,
+      "highlight_text": null,
+      "primary_button_text": null,
+      "secondary_button_text": null
+    },
+    "footer_section": {
+      "footer_description": null,
+      "footer_columns": null,
+      "copyright_text": null
+    },
+    "seo_section": {
+      "meta_title": "Amity Online MBA in Data Science"
+    }
+  },
+  "validation_report": {
+    "missing_fields": [],
+    "unmapped_fields": [
+      "duration.validity_period",
+      "breadcrumb_section.breadcrumbs",
+      "hero_section.primary_cta_text",
+      "hero_section.secondary_cta_text",
+      "lead_form_section.tag_text",
+      "lead_form_section.form_heading",
+      "lead_form_section.form_description",
+      "lead_form_section.lead_form_fields",
+      "lead_form_section.submit_button_text",
+      "lead_form_section.processing_fee_text",
+      "lead_form_section.social_proof_text",
+      "partner_banks_section.heading",
+      "partner_banks_section.subheading",
+      "partner_banks_section.partner_banks",
+      "scholarship_section.scholarship_tag",
+      "scholarship_section.scholarship_title",
+      "scholarship_section.scholarship_description",
+      "syllabus_section.description",
+      "admission_section.admission_note",
+      "placement_section.recruiters_heading",
+      "job_roles_section.heading",
+      "job_roles_section.description",
+      "job_roles_section.job_roles",
+      "certificate_section.heading",
+      "sidebar_section.quick_navigation_heading",
+      "sidebar_section.at_a_glance_heading",
+      "sidebar_section.compare_cta.heading",
+      "sidebar_section.compare_cta.description",
+      "sidebar_section.compare_cta.button_text",
+      "cta_section.heading",
+      "cta_section.highlight_text",
+      "cta_section.primary_button_text",
+      "cta_section.secondary_button_text",
+      "footer_section.footer_description",
+      "footer_section.footer_columns",
+      "footer_section.copyright_text"
+    ],
+    "thin_content_fields": [],
+    "warnings": [
+      "Incomplete repeater 'hero_section.hero_badges': Missing attributes ['badge_variant']",
+      "Incomplete repeater 'hero_section.hero_stats': Missing attributes ['stat_suffix']",
+      "Incomplete repeater 'fee_structure_section.fee_plans': Missing attributes ['amount', 'savings_text']",
+      "Incomplete repeater 'syllabus_section.years': Missing attributes ['semesters']",
+      "Incomplete repeater 'placement_section.placement_services': Missing attributes ['service_description']",
+      "Incomplete repeater 'reviews_section.reviews': Missing attributes ['rating', 'review_author']",
+      "Incomplete repeater 'sidebar_section.at_a_glance': Missing attributes ['value_variant']",
+      "Duplicate stat values detected: 100%, 21, 24, 46%",
+      "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5447, Requested 2960. Please try again in 24.07s. Need more tokens? Upgrade to Dev Tier today at https://console.g"
+    ]
+  }
+}

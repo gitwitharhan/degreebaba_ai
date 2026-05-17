@@ -1,0 +1,701 @@
+{
+  "file_name": "course_2.docx",
+  "page_type": "course",
+  "classification_confidence": 0.98,
+  "mapped_payload": {
+    "course_name": "Amity University Online MBA program",
+    "course_slug": "amity-university-online-mba-program",
+    "course_type": "MBA",
+    "degree_level": "Postgraduate",
+    "delivery_mode": "Online",
+    "duration": {
+      "duration_value": "2",
+      "duration_unit": "Years",
+      "validity_period": null
+    },
+    "breadcrumb_section": {
+      "breadcrumbs": null
+    },
+    "university": {
+      "university_name": "Amity University Online"
+    },
+    "hero_section": {
+      "program_tag": "Amity Online MBA",
+      "headline": "Amity University Online MBA program",
+      "highlight_text": "Amity Online MBA",
+      "subheading": "Advance your professional journey with the Amity University Online MBA program that includes AI professor AMI, diverse learning methods, industry mentorship, and a futuristic academic approach.",
+      "hero_badges": [
+        {
+          "badge_text": "UGC",
+          "badge_variant": null,
+          "badge_icon": null
+        },
+        {
+          "badge_text": "NAAC A+",
+          "badge_variant": null,
+          "badge_icon": null
+        },
+        {
+          "badge_text": "WES",
+          "badge_variant": null,
+          "badge_icon": null
+        },
+        {
+          "badge_text": "WASC",
+          "badge_variant": null,
+          "badge_icon": null
+        }
+      ],
+      "hero_stats": [
+        {
+          "stat_value": "2",
+          "stat_label": "Programs",
+          "stat_suffix": null
+        },
+        {
+          "stat_value": "18",
+          "stat_label": "Students",
+          "stat_suffix": null
+        },
+        {
+          "stat_value": "22",
+          "stat_label": "Stat",
+          "stat_suffix": null
+        },
+        {
+          "stat_value": "10",
+          "stat_label": "Stat",
+          "stat_suffix": "+"
+        },
+        {
+          "stat_value": "12",
+          "stat_label": "Stat",
+          "stat_suffix": null
+        },
+        {
+          "stat_value": "40",
+          "stat_label": "Students",
+          "stat_suffix": "%"
+        }
+      ],
+      "primary_cta_text": null,
+      "secondary_cta_text": null
+    },
+    "lead_form_section": {
+      "tag_text": null,
+      "form_heading": null,
+      "form_description": null,
+      "program_options": null,
+      "submit_button_text": null,
+      "proof_text": null
+    },
+    "overview_section": {
+      "heading": "Course Facts",
+      "description": "<p>A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.</p><p>Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.</p><p>Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.</p><p>The Amity University online MBA placement assistance conducts online placement drives every fortnight.</p><p>Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.</p>",
+      "overview_cards": [
+        {
+          "value": "2",
+          "label": "Duration (Years)",
+          "color_variant": null
+        },
+        {
+          "value": "18",
+          "label": "Specializations",
+          "color_variant": null
+        },
+        {
+          "value": "24",
+          "label": "EMI Tenure (Months)",
+          "color_variant": null
+        }
+      ]
+    },
+    "highlights_section": {
+      "heading": "Course Facts",
+      "highlights": [
+        {
+          "title": "A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.",
+          "description": "A 24 month interest-free easy EMI facility is offered under the Amity online MBA program as financial aid.",
+          "icon": null
+        },
+        {
+          "title": "Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.",
+          "description": "Amity University Online is among the top B schools in India and all of its abroad and Indian campuses are interconnected through a highly secure pirate network of their own.",
+          "icon": null
+        },
+        {
+          "title": "Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.",
+          "description": "Students enrolled in the Amity Online MBA can access the last-minute revision classes offered at all Amity University campuses.",
+          "icon": null
+        },
+        {
+          "title": "The Amity University online MBA placement assistance conducts online placement drives every fortnight.",
+          "description": "The Amity University online MBA placement assistance conducts online placement drives every fortnight.",
+          "icon": null
+        },
+        {
+          "title": "Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.",
+          "description": "Amity University Online is among the most renowned private universities and its vast network of notable alumni includes  Kunal Khemu, Disha Patani, Himansh Kohli, Urfi Javed, etc.",
+          "icon": null
+        }
+      ]
+    },
+    "accreditation_section": {
+      "heading": "Accreditations",
+      "accreditations": [
+        {
+          "short_name": "UGC",
+          "full_name": "University Grants Commission",
+          "description": null,
+          "color_variant": null
+        },
+        {
+          "short_name": "WES",
+          "full_name": "World Education Services",
+          "description": null,
+          "color_variant": null
+        },
+        {
+          "short_name": "WASC",
+          "full_name": "Western Association of Schools and Colleges",
+          "description": null,
+          "color_variant": null
+        },
+        {
+          "short_name": "NAAC",
+          "full_name": "National Assessment and Accreditation Council",
+          "description": null,
+          "color_variant": null
+        },
+        {
+          "short_name": "AICTE",
+          "full_name": "All India Council for Technical Education",
+          "description": null,
+          "color_variant": null
+        },
+        {
+          "short_name": "NIRF",
+          "full_name": "National Institutional Ranking Framework",
+          "description": null,
+          "color_variant": null
+        },
+        {
+          "short_name": "DEC",
+          "full_name": "Digital Education Council",
+          "description": null,
+          "color_variant": null
+        }
+      ]
+    },
+    "specialization_section": {
+      "heading": "Specializations offered",
+      "description": "The Amity University online MBA is specially designed for working professionals and offers a wide choice of career advancement opportunities in multiple industry-specified specializations, namely:",
+      "specializations": [
+        {
+          "specialization_name": "Dual specialization",
+          "specialization_slug": "dual-specialization",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 2,99,000 /-",
+          "is_featured": true
+        },
+        {
+          "specialization_name": "General Management",
+          "specialization_slug": "general-management",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 1,99,000 /-",
+          "is_featured": false
+        },
+        {
+          "specialization_name": "International Finance",
+          "specialization_slug": "international-finance",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 2,99,000 /-",
+          "is_featured": false
+        },
+        {
+          "specialization_name": "Digital Entrepreneurship",
+          "specialization_slug": "digital-entrepreneurship",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 1,99,000 /-",
+          "is_featured": false
+        },
+        {
+          "specialization_name": "Business Analytics",
+          "specialization_slug": "business-analytics",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 1,99,000 /-",
+          "is_featured": false
+        },
+        {
+          "specialization_name": "Data Science",
+          "specialization_slug": "data-science",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 1,99,000 /-",
+          "is_featured": false
+        },
+        {
+          "specialization_name": "HR Analytics",
+          "specialization_slug": "hr-analytics",
+          "icon": null,
+          "icon_bg_variant": null,
+          "fee_text": "INR 1,99,000 /-",
+          "is_featured": false
+        }
+      ]
+    },
+    "fee_structure_section": {
+      "heading": "Fee Structure",
+      "fee_plans": [
+        {
+          "plan_name": "Semester I",
+          "amount": "INR 49,750 /-",
+          "billing_frequency": "Per Semester",
+          "total_fee": null,
+          "savings_text": null,
+          "is_highlighted": true
+        },
+        {
+          "plan_name": "Semester  II",
+          "amount": "INR 49,750 /-",
+          "billing_frequency": "Per Semester",
+          "total_fee": null,
+          "savings_text": null,
+          "is_highlighted": false
+        },
+        {
+          "plan_name": "Semester III",
+          "amount": "INR 49,750 /-",
+          "billing_frequency": "Per Semester",
+          "total_fee": null,
+          "savings_text": null,
+          "is_highlighted": false
+        },
+        {
+          "plan_name": "Semester IV",
+          "amount": "INR 49,750 /-",
+          "billing_frequency": "Per Semester",
+          "total_fee": null,
+          "savings_text": null,
+          "is_highlighted": false
+        },
+        {
+          "plan_name": "Annual Fees",
+          "amount": "INR 49,750 /-",
+          "billing_frequency": null,
+          "total_fee": null,
+          "savings_text": null,
+          "is_highlighted": false
+        },
+        {
+          "plan_name": "Total Course Fee",
+          "amount": "INR 1,99,000 /-",
+          "billing_frequency": null,
+          "total_fee": null,
+          "savings_text": null,
+          "is_highlighted": false
+        }
+      ]
+    },
+    "emi_section": {
+      "feature_tag": "EMI",
+      "heading": "Fee Structure",
+      "description": "The fee structure of the Amity University Online MBA program is pocket-friendly for students and working professionals as well. To assist candidates with financial constraints the fee can be paid in a semester or annual plan. A detailed fee structure of the Amity Online MBA is mentioned below:\nTo offer additional leverage to students, the Amity online MBA provides a 24-month zero-cost EMI option, which costs INR 8,292 /- per month. For more information, visit the official website of Amity University Online to learn the exact fee structure and financial aid offered by the university for your preferred specialization in the online MBA program.",
+      "starting_emi": "INR 8,292 /-",
+      "tenures": [
+        {
+          "months": "24 months",
+          "is_featured": true
+        }
+      ],
+      "benefits": [
+        {
+          "benefit_text": "Interest-free EMI support"
+        },
+        {
+          "benefit_text": "Financial aid available"
+        },
+        {
+          "benefit_text": "Multiple fee payment plans"
+        }
+      ]
+    },
+    "partner_banks_section": {
+      "heading": null,
+      "subheading": null,
+      "banks": null
+    },
+    "scholarship_section": {
+      "eyebrow_text": null,
+      "heading": null,
+      "description": null
+    },
+    "eligibility_section": {
+      "heading": "Eligibility Criteria",
+      "eligibility_cards": [
+        {
+          "title": "Students willing to enroll in the Amity Online MBA are required to fulfill the eligibility criteria of the program along with the admission requirements mentioned below:",
+          "description": "<p>Students willing to enroll in the Amity Online MBA are required to fulfill the eligibility criteria of the program along with the admission requirements mentioned below:</p>"
+        },
+        {
+          "title": "The applicant must have completed a 10+2 formal educational qualification from a recognized board of education.",
+          "description": "<p>The applicant must have completed a 10+2 formal educational qualification from a recognized board of education.</p>"
+        },
+        {
+          "title": "Along with the 12  years of formal education, a bachelor’s degree in any domain is required from a valid and recognized university.",
+          "description": "<p>Along with the 12  years of formal education, a bachelor’s degree in any domain is required from a valid and recognized university.</p>"
+        },
+        {
+          "title": "The applicant must be familiar with and have an intermediate understanding of the English language.",
+          "description": "<p>The applicant must be familiar with and have an intermediate understanding of the English language.</p>"
+        }
+      ],
+      "eligibility_note": null
+    },
+    "admission_process_section": {
+      "heading": "Amity Online MBA Admission Process",
+      "steps": [
+        {
+          "step_number": "1",
+          "step_title": "Select the online MBA program along with the best",
+          "step_description": "<p>suited specialization as per your career goals.</p>"
+        },
+        {
+          "step_number": "2",
+          "step_title": "Complete the application form on Amity University Online's official website by providing personal information.",
+          "step_description": "<p>Complete the application form on Amity University Online&#039;s official website by providing personal information.</p>"
+        },
+        {
+          "step_number": "3",
+          "step_title": "Pay the program fee using your chosen payment mode and fee plan.",
+          "step_description": "<p>Pay the program fee using your chosen payment mode and fee plan.</p>"
+        },
+        {
+          "step_number": "4",
+          "step_title": "Once the application form is completely filled, submit it and complete the registration process.",
+          "step_description": "<p>Once the application form is completely filled, submit it and complete the registration process.</p>"
+        },
+        {
+          "step_number": "5",
+          "step_title": "Once the admission is confirmed, Amity Online will share the enrollment details.",
+          "step_description": "<p>Once the admission is confirmed, Amity Online will share the enrollment details.</p>"
+        }
+      ],
+      "admission_note": null
+    },
+    "syllabus_section": {
+      "heading": "Syllabus/Curriculum",
+      "description": null,
+      "years": [
+        {
+          "year_name": "Year I",
+          "semesters": [
+            {
+              "semester_name": "Semester I",
+              "subjects": [
+                {
+                  "subject_name": "Marketing Management"
+                },
+                {
+                  "subject_name": "Managerial Economics"
+                },
+                {
+                  "subject_name": "Statistics for Management"
+                },
+                {
+                  "subject_name": "Professional communication"
+                },
+                {
+                  "subject_name": "Accounting for Managers"
+                }
+              ]
+            },
+            {
+              "semester_name": "Semester II",
+              "subjects": [
+                {
+                  "subject_name": "Legal Aspects of Business"
+                },
+                {
+                  "subject_name": "Business Research Methods"
+                },
+                {
+                  "subject_name": "Financial Management"
+                },
+                {
+                  "subject_name": "Human Resource Management"
+                },
+                {
+                  "subject_name": "Conflict Resolution and Management"
+                }
+              ]
+            },
+            {
+              "semester_name": "Semester III",
+              "subjects": [
+                {
+                  "subject_name": "Strategic Management"
+                },
+                {
+                  "subject_name": "Minor Project"
+                },
+                {
+                  "subject_name": "Professional Ethics"
+                },
+                {
+                  "subject_name": "Specialization Elective 1"
+                },
+                {
+                  "subject_name": "Specialization Elective 2"
+                },
+                {
+                  "subject_name": "Specialization Elective 3"
+                },
+                {
+                  "subject_name": "Specialization Elective 4"
+                }
+              ]
+            },
+            {
+              "semester_name": "Semester IV",
+              "subjects": [
+                {
+                  "subject_name": "Major Project"
+                },
+                {
+                  "subject_name": "Management in Action Social Economic and Ethical Issues"
+                },
+                {
+                  "subject_name": "Digital Marketing"
+                },
+                {
+                  "subject_name": "Specialization Elective 1"
+                },
+                {
+                  "subject_name": "Specialization Elective 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "placement_section": {
+      "heading": "Placement Partners",
+      "placement_stats": null,
+      "placement_services_heading": null,
+      "placement_services": [
+        {
+          "service_text": "resume-building workshops"
+        },
+        {
+          "service_text": "interview preparation"
+        },
+        {
+          "service_text": "industry mentorship"
+        }
+      ],
+      "recruiters_heading": null,
+      "recruiters": [
+        {
+          "company_name": "IBM",
+          "company_logo": null
+        },
+        {
+          "company_name": "Microsoft",
+          "company_logo": null
+        },
+        {
+          "company_name": "SBi",
+          "company_logo": null
+        },
+        {
+          "company_name": "HDFC",
+          "company_logo": null
+        },
+        {
+          "company_name": "Nokia",
+          "company_logo": null
+        },
+        {
+          "company_name": "Paytm",
+          "company_logo": null
+        },
+        {
+          "company_name": "KPMG",
+          "company_logo": null
+        },
+        {
+          "company_name": "Wipro",
+          "company_logo": null
+        }
+      ]
+    },
+    "job_roles_section": {
+      "heading": "Job Roles & Salary",
+      "job_roles": [
+        {
+          "job_title": "Brand Partnership Manager",
+          "average_salary": "INR 4.2 LPA",
+          "salary_growth_percentage": null
+        },
+        {
+          "job_title": "Risk Manager",
+          "average_salary": "INR 10 LPA",
+          "salary_growth_percentage": null
+        },
+        {
+          "job_title": "Financial Advisor",
+          "average_salary": "INR 6.1 LPA",
+          "salary_growth_percentage": null
+        },
+        {
+          "job_title": "Portfolio Manager",
+          "average_salary": "INR 7.3 LPA",
+          "salary_growth_percentage": null
+        },
+        {
+          "job_title": "Regional Sales Manager",
+          "average_salary": "INR 3.5 - 4 LPA",
+          "salary_growth_percentage": null
+        }
+      ]
+    },
+    "certificate_section": {
+      "heading": "Sample certificate photo",
+      "certificate_title": null,
+      "certificate_description": null,
+      "certificate_note": null
+    },
+    "reviews_section": {
+      "heading": "Amity University Online reviews",
+      "reviews": [
+        {
+          "review_text": "<p>My experience with amity online MBA was nothing less than a roller coaster ride for me as I was among the covid batch but the univeristy was very supportive and I enjoyed it.</p>",
+          "student_name": null,
+          "rating": null,
+          "designation": null
+        },
+        {
+          "review_text": "<p>Being a working professional enrolling in an online MBA is a challenge but amity online assisted me at every stage of my academic journey. Kudos to them.</p>",
+          "student_name": null,
+          "rating": null,
+          "designation": null
+        },
+        {
+          "review_text": "<p>The amity online mba faculty members are very friendly and helped in scoring good marks in a short span of time.</p>",
+          "student_name": null,
+          "rating": null,
+          "designation": null
+        },
+        {
+          "review_text": "<p>Everything is okay about amity university online but there are a few areas of improvement but everything seems nice to me. I recommend it to others too.</p>",
+          "student_name": null,
+          "rating": null,
+          "designation": null
+        }
+      ]
+    },
+    "faq_section": {
+      "heading": "FAQs",
+      "faq_items": [
+        {
+          "question": "What is the Amity University Online MBA fee?",
+          "answer": "<p>The entire 2 year Amity University Online MBA fee is INR 1,99,000/- without incurring any financial aid.</p>"
+        },
+        {
+          "question": "What is the ranking of Amity University Online MBA?",
+          "answer": "<p>Amity University Online ranks #35 under the universities category of the National Institutional Ranking Framework (NIRF).</p>"
+        },
+        {
+          "question": "Does Amity Online provide placement?",
+          "answer": "<p>Yes, Amity University Online MBA placement support offers an enormous number of hiring partners i.e. 500+ active partners.</p><p>Can I take direct admission to the Amity Online MBA?</p><p>Yes, if you have scored a minimum of 40% aggregate marks in graduation then you can seek direct admission under the Amity Online MBA program.</p><p>What career opportunities can I expect after completing the Amity Online MBA?</p><p>A student is entitled to opt for multiple job opportunities after completing the Amity Online MBA depending on the specialization chosen by them.</p>"
+        },
+        {
+          "question": "How is the Amity University Online MBA program?",
+          "answer": "<p>Amity University Online MBA is an ideal choice for students and working professionals as Amity University Online is among the top B Schools.</p><p>How can I apply for the Amity University Online MBA program?</p><p>You can apply directly for the Amity University Online MBA through its official website.</p><p>What are the requirements to join the Amity Online MBA program?</p><p>The applicant must have completed a valid bachelor’s degree with a 10+2 formal education to join the Amity Online MBA program.</p>"
+        }
+      ]
+    },
+    "sidebar_section": {
+      "at_a_glance_heading": null,
+      "at_a_glance": null,
+      "quick_navigation_heading": null,
+      "quick_links": null,
+      "compare_cta": {
+        "heading": null,
+        "description": null,
+        "button_text": null
+      }
+    },
+    "cta_section": {
+      "heading": null,
+      "highlight_text": null,
+      "primary_button_text": null,
+      "secondary_button_text": null
+    },
+    "seo_section": {
+      "meta_title": "Amity University Online MBA program"
+    }
+  },
+  "validation_report": {
+    "missing_fields": [],
+    "unmapped_fields": [
+      "duration.validity_period",
+      "breadcrumb_section.breadcrumbs",
+      "hero_section.primary_cta_text",
+      "hero_section.secondary_cta_text",
+      "lead_form_section.tag_text",
+      "lead_form_section.form_heading",
+      "lead_form_section.form_description",
+      "lead_form_section.program_options",
+      "lead_form_section.submit_button_text",
+      "lead_form_section.proof_text",
+      "partner_banks_section.heading",
+      "partner_banks_section.subheading",
+      "partner_banks_section.banks",
+      "scholarship_section.eyebrow_text",
+      "scholarship_section.heading",
+      "scholarship_section.description",
+      "eligibility_section.eligibility_note",
+      "admission_process_section.admission_note",
+      "syllabus_section.description",
+      "placement_section.placement_stats",
+      "placement_section.placement_services_heading",
+      "placement_section.recruiters_heading",
+      "certificate_section.certificate_title",
+      "certificate_section.certificate_description",
+      "certificate_section.certificate_note",
+      "sidebar_section.at_a_glance_heading",
+      "sidebar_section.at_a_glance",
+      "sidebar_section.quick_navigation_heading",
+      "sidebar_section.quick_links",
+      "sidebar_section.compare_cta.heading",
+      "sidebar_section.compare_cta.description",
+      "sidebar_section.compare_cta.button_text",
+      "cta_section.heading",
+      "cta_section.highlight_text",
+      "cta_section.primary_button_text",
+      "cta_section.secondary_button_text"
+    ],
+    "thin_content_fields": [],
+    "warnings": [
+      "Incomplete repeater 'hero_section.hero_badges': Missing attributes ['badge_variant', 'badge_icon']",
+      "Incomplete repeater 'hero_section.hero_stats': Missing attributes ['stat_suffix']",
+      "Incomplete repeater 'overview_section.overview_cards': Missing attributes ['color_variant']",
+      "Incomplete repeater 'highlights_section.highlights': Missing attributes ['icon']",
+      "Incomplete repeater 'accreditation_section.accreditations': Missing attributes ['description', 'color_variant']",
+      "Incomplete repeater 'specialization_section.specializations': Missing attributes ['icon_bg_variant', 'icon']",
+      "Incomplete repeater 'fee_structure_section.fee_plans': Missing attributes ['billing_frequency', 'total_fee', 'savings_text']",
+      "Incomplete repeater 'placement_section.recruiters': Missing attributes ['company_logo']",
+      "Incomplete repeater 'job_roles_section.job_roles': Missing attributes ['salary_growth_percentage']",
+      "Incomplete repeater 'reviews_section.reviews': Missing attributes ['rating', 'designation', 'student_name']",
+      "AI review failed: Groq HTTP error 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kp84jgvge5xs0nywv9prd1cc` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5157, Requested 2653. Please try again in 18.1s. Need more tokens? Upgrade to Dev Tier today at https://console.gr"
+    ]
+  }
+}
